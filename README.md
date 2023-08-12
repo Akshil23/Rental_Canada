@@ -1,3 +1,5 @@
+Identified Rental Market Trend after pandemic. Extracted and examined results collected from a credible source. Excel has been used to clean and organize the dataset. Designed interactive Power BI dashboard describing Average Vacancy Rate, Average Rent.
+
 You can get the rental city visualization as follow:
 
 https://app.powerbi.com/groups/me/reports/6b303d1d-597b-4547-974a-695b8c5656bd/ReportSection?experience=power-bi
